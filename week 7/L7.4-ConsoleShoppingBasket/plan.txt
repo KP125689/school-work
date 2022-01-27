@@ -1,0 +1,15 @@
+plan
+
+display categories files
+ask user to choose a category (0-3 inclusive)
+if user chooses 1 then display all prodcuts containing the name
+use: while line = reader.readline() == "Playstation" (example)
+
+customer selects a product:
+use the table technique to make user choose an option
+keep making the user choose then end when they make an invalid option
+invalid option can be caught if a try {catch} 
+catch will have clear.console
+
+display the selected items and their price (read from file somehow)
+then add amounts... add items as you go along... use a counter to add ++ in the back then display the total amount
