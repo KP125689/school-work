@@ -1,0 +1,8 @@
+C:\Users\patrw\Source\Repos\441101-2122-t2-herosquest-KP125689\HerosQuest\bin\Debug\HerosQuest.exe.config
+C:\Users\patrw\Source\Repos\441101-2122-t2-herosquest-KP125689\HerosQuest\bin\Debug\HerosQuest.exe
+C:\Users\patrw\Source\Repos\441101-2122-t2-herosquest-KP125689\HerosQuest\bin\Debug\HerosQuest.pdb
+C:\Users\patrw\Source\Repos\441101-2122-t2-herosquest-KP125689\HerosQuest\obj\Debug\HerosQuest.csproj.AssemblyReference.cache
+C:\Users\patrw\Source\Repos\441101-2122-t2-herosquest-KP125689\HerosQuest\obj\Debug\HerosQuest.csproj.SuggestedBindingRedirects.cache
+C:\Users\patrw\Source\Repos\441101-2122-t2-herosquest-KP125689\HerosQuest\obj\Debug\HerosQuest.csproj.CoreCompileInputs.cache
+C:\Users\patrw\Source\Repos\441101-2122-t2-herosquest-KP125689\HerosQuest\obj\Debug\HerosQuest.exe
+C:\Users\patrw\Source\Repos\441101-2122-t2-herosquest-KP125689\HerosQuest\obj\Debug\HerosQuest.pdb
