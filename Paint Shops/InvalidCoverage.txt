@@ -1,2 +1,0 @@
-﻿Name:Invalid Coverage
-Paint{Name:Baby Blue,CM^2PerML:9,Colour:Blue,PricePerML:2.00}

@@ -1,2 +1,0 @@
-﻿Name:Invalid Paint Name
-Paint{Name:Blue,CM^2PerML:1,Colour:Blue,PricePerML:2.00}
